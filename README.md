@@ -1,2 +1,1 @@
-# imtr
-Immersion Training
+Sample
